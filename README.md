@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/lbruss/projetos-js)
+
 # Projetos em JavaScript (Iniciante)
 
 Este repositório reúne alguns projetos simples desenvolvidos em **JavaScript**, com foco em quem está começando na programação.
@@ -10,5 +12,5 @@ Iniciante — bem básico, apenas dando os primeiros passos no JavaScript.
 
 > Obs: Os projetos aqui não são complexos, mas servem como base para evoluir e entender melhor como a linguagem funciona na prática.
 
-## Autor
+###  Autor
 Bruss Loza
