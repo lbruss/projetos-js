@@ -14,5 +14,5 @@ O principal objetivo é praticar conceitos básicos da linguagem de forma clara 
 
 > Obs: Os projetos aqui não são complexos, mas servem como base para evoluir e entender melhor como a linguagem funciona na prática.
 
-### Professor:
+**Professor:**
 José de Assis 
