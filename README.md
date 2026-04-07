@@ -14,3 +14,6 @@ O principal objetivo é praticar conceitos básicos da linguagem de forma clara 
 
 ###  Autor
 Bruss Loza
+
+### Professor
+José de Assis
