@@ -2,6 +2,8 @@
 
 # Mini projetos em JavaScript
 
+**Autor:** Bruss Loza
+
 Este repositório reúne alguns projetos simples desenvolvidos em **JavaScript**, com foco em quem está começando na programação.
 
 ### Objetivo
@@ -12,5 +14,5 @@ O principal objetivo é praticar conceitos básicos da linguagem de forma clara 
 
 > Obs: Os projetos aqui não são complexos, mas servem como base para evoluir e entender melhor como a linguagem funciona na prática.
 
-###  Autor
-Bruss Loza
+### Professor:
+José de Assis 
