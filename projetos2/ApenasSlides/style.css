@@ -1,0 +1,14 @@
+#main{
+    max-width: 1800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

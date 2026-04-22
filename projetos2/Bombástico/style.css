@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+body{
+    font-family: "Audiowide", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    background-color: #07060a;
+    color: #10589cbb;
+    font-size: 42px;
+    text-align: center;
+}
+
+#fogo{
+    cursor: pointer;
+}
+
+img{
+    max-width: 100%;
+}
