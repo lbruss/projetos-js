@@ -1,0 +1,20 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#face {
+  width: 100px;
+  height: 100px;
+}
+
+body{
+    text-align: center;
+}
+
+.botao{
+    padding-top: 50px;
+    text-align: center;
+}

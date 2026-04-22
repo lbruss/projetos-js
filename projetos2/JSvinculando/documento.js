@@ -1,0 +1,1 @@
+document.write("<h2>" + "Bruss Loza" + "</h2>");
