@@ -2,6 +2,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: #272c33;
+    color: rgb(158, 154, 173);
 }
 
 h1{
@@ -11,7 +12,7 @@ h1{
 
 #resultado{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 25px;
     justify-content: center;
     max-width: 1000px;
